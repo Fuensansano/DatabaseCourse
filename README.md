@@ -47,7 +47,7 @@ Diseñar un ER que represente el uso de una agenda, donde tendremos:
 		- Apellido2
 		- Sexo
 		- Fecha de nacimiento
-        - created_at
+        	- created_at
 		- updated_at
 		- deleted_at
 ```
