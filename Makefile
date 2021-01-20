@@ -11,7 +11,7 @@ help:
 	@echo "  start               🚀 Starts the MySQL container"
 	@echo "  delete              🗑 Deletes all the MySQL data"
 	@echo "  install             📥 Download docker"
-	@echo "  mysql-cli           📡 Download docker"
+	@echo "  mysql-cli           📡 Conectarse a MySQL por terminal"
 	@echo "  shell               📡 Shell on the docker container to interact"
 	@echo "  load-comercial-db   🔼 Load comercial DB on MySQL"
 
